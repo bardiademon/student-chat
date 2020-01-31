@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">StudentChat</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="login">LOGIN</string>
+    <string name="don_t_have_an_account_register">Don\'t have an account? Register</string>
+    <string name="connecting">Connecting…</string>
+    <string name="type_message">Type message ....</string>
+    <string name="send">SEND</string>
+    <string name="message_to">Message to</string>
+    <string name="message">message</string>
+
+    <string name="port_login_register">1000</string>
+    <string name="port_chat">5000</string>
+
+</resources>
